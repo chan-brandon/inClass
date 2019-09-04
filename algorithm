@@ -5,3 +5,7 @@
   a. they answer - go to step 5
   b. they do not answer - retry step 4
 5. Place the order
+  a. Pay over phone - go to step 6
+  b. Pay at door - go to step 7
+6. Give credit card information
+7. Wait for pizza
